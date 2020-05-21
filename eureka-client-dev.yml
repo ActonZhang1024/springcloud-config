@@ -1,0 +1,4 @@
+server:
+  port: 8762
+  
+foo: git info version 1
